@@ -1,30 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 06, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked through some HTML review on my Udemy course (The Complete 2020 Web Development Bootcamp)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts:** This was admittedly a super easy day - I learned all this stuff a few months ago, but since I took a break for pretty much all of December, I decided it couldn't hurt to refresh on the basics. 
 
 
-### Day 1: June 27, Monday
+### Day 2: January 07, 2020
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Worked though more HTML review and installed some packages for Atom. 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: More of the same today. I'm excited to play with these new packages, especially the atom-beautify one.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+### Day 3: January 08, 2020
+
+**Today's Progress**: Forked this repo! Continued working on HTML in my Udemy course. 
+
+**Thoughts**: Github still isn't very intuitive for me, but I'm getting better with practice. 
+
