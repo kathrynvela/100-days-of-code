@@ -20,3 +20,10 @@
 
 **Thoughts**: Github still isn't very intuitive for me, but I'm getting better with practice. 
 
+### Day 4: January 09, 2020
+
+**Today's Progress**: Published my first project from this Udemy course, a professional CV website with pure HTML, using GitHub Pages.
+
+**Thoughts**: I've used GitHub Pages before, but this is the first time I've felt comfortable doing it. It's also the first time I've uploaded multiple webpages for one website!
+
+**Project Links**:  https://kathrynvela.github.io/cv/
