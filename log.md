@@ -27,3 +27,16 @@
 **Thoughts**: I've used GitHub Pages before, but this is the first time I've felt comfortable doing it. It's also the first time I've uploaded multiple webpages for one website!
 
 **Project Links**:  https://kathrynvela.github.io/cv/
+
+### Day 5: January 10, 2020
+
+**Today's Progress**: More CSS review on my Udemy course
+
+**Thoughts**: 
+
+### Day 6: January 11, 2020
+
+**Today's Progress**: More CSS review on my Udemy course
+
+**Thoughts**: 
+
