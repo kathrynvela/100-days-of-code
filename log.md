@@ -46,3 +46,9 @@
 
 **Thoughts**: Even though I'm still reviewing stuff I learned last year, I'm learning new things almost every day. Today, it was that the little icon that shows up in the tab of a webpage is called a "favicon" :)
 
+### Day 8: January 13, 2020
+
+**Today's Progress**: More CSS review on my Udemy course. Focused on positioning today, which has been a struggle for me from the very beginning.
+
+**Thoughts**: I'm really glad I'm revieiwng this part again, I always struggle with positioning, especially centering. I had to laugh when I saw that section was titled "The dark art of centering elements with CSS" lol
+
