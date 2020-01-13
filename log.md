@@ -40,3 +40,9 @@
 
 **Thoughts**: 
 
+### Day 7: January 12, 2020
+
+**Today's Progress**: More CSS review on my Udemy course. I finished the introductory CSS portion and moved on to the intermediate part of the course.
+
+**Thoughts**: Even though I'm still reviewing stuff I learned last year, I'm learning new things almost every day. Today, it was that the little icon that shows up in the tab of a webpage is called a "favicon" :)
+
