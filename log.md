@@ -52,3 +52,9 @@
 
 **Thoughts**: I'm really glad I'm revieiwng this part again, I always struggle with positioning, especially centering. I had to laugh when I saw that section was titled "The dark art of centering elements with CSS" lol
 
+### Day 9: January 14, 2020
+
+**Today's Progress**: More CSS review on my Udemy course. Learned some cool stuff about fonts, and I'm planning to revist typography once I finish the main part of this course.
+
+**Thoughts**: As much as I enjoy the coding part of web development, I find myself more interested in the design aspect - colors, fonts, layouts, etc. I think I'll need to take a design course after this one!
+
