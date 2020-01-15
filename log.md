@@ -58,3 +58,10 @@
 
 **Thoughts**: As much as I enjoy the coding part of web development, I find myself more interested in the design aspect - colors, fonts, layouts, etc. I think I'll need to take a design course after this one!
 
+### Day 10: January 15, 2020
+
+**Today's Progress**: Finished up the Intermediate CSS portion of my Udemy course by adding the finishing touches to my personal (practice) website!
+
+**Thoughts**: Learned about button generators in this lesson and wow that is cool!
+
+**Project Links**: https://kathrynvela.github.io/personalwebsite/
