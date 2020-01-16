@@ -65,3 +65,12 @@
 **Thoughts**: Learned about button generators in this lesson and wow that is cool!
 
 **Project Links**: https://kathrynvela.github.io/personalwebsite/
+
+### Day 11: January 16, 2020
+
+**Today's Progress**: Started learning about Bootstrap 4 today and created a new practice website.
+
+**Thoughts**: I'm really excited to learn how to lay out webpages with Bootstrap!
+
+**Project Links**: https://codeply.com/v/OxCovfKjms [Bootstrap Grid Layout]
+                   https://codeply.com/v/t20w9RFjOi [Bootstrap Nav Bar]
