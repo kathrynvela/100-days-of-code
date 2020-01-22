@@ -107,6 +107,6 @@
 
 ### Day 17: January 22, 2020
 
-**Today's Progress**: 
+**Today's Progress**: I learned how to refactor my code, focusing on readability and modularity.
 
-**Thoughts**: 
+**Thoughts**: The organizer in me loves tidying up my code!
