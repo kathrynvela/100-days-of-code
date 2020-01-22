@@ -74,3 +74,39 @@
 
 **Project Links**: https://codeply.com/v/OxCovfKjms [Bootstrap Grid Layout]
                    https://codeply.com/v/t20w9RFjOi [Bootstrap Nav Bar]
+                   
+### Day 12: January 17, 2020
+
+**Today's Progress**: Learned how to use Bootstrap columns to lay out my website. 
+
+**Thoughts**: Now I know how to use CSS Grid, CSS Flexbox, and Bootstrap columns to lay out webpages; I'm wondering if there are guidelines about which approach to use in different circumstances, or if it's just a matter of preference.
+
+### Day 13: January 18, 2020
+
+**Today's Progress**: Woke up early to finish my hour of code before the weekend took over - formatted buttons with Bootstrap and learned about Font Awesome.
+
+**Thoughts**: I'm loving Bootstrap so far; the documentation makes it really easy to use.
+
+### Day 14: January 19, 2020
+
+**Today's Progress**: Added a carousel feature to my practice website with Bootstrap
+
+**Thoughts**: This was a little more complex than the Bootstrap I've learned so far, but it's a cool effect and I'm glad we covered it in this course.
+
+### Day 15: January 20, 2020
+
+**Today's Progress**: Learned about media queries and using them to make webpages more responsive.
+
+**Thoughts**: As someone interested in accessibility, media queries were very cool to learn about.
+
+### Day 16: January 21, 2020
+
+**Today's Progress**: After learning about the z-index yesterday, I put it into practice today on my practice app website. 
+
+**Thoughts**: I'll definitely need more practice on stacking order, I'd like to be able to intuitively understand what I need to code instead of trying things out haphazardly.
+
+### Day 17: January 22, 2020
+
+**Today's Progress**: 
+
+**Thoughts**: 
