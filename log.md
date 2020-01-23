@@ -110,3 +110,11 @@
 **Today's Progress**: I learned how to refactor my code, focusing on readability and modularity.
 
 **Thoughts**: The organizer in me loves tidying up my code!
+
+### Day 18: January 23, 2020
+
+**Today's Progress**: I finished my practice website for an app through my Udemy course, and I'm getting ready to dive into Javascript!
+
+**Thoughts**: I love how this website turned out, I learned so many cool things as I put it together.
+
+**Project Links**: https://kathrynvela.github.io/practice-tindog/
