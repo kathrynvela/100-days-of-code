@@ -118,3 +118,24 @@
 **Thoughts**: I love how this website turned out, I learned so many cool things as I put it together.
 
 **Project Links**: https://kathrynvela.github.io/practice-tindog/
+
+### Day 19: January 24, 2020
+
+**Today's Progress**: I decided to take a break from my Udemy course and work on getting my Responsive Web Design certification from free CodeCamp. I already finished one project!
+
+**Thoughts**: It's interesting to have to meet certain requirements - I'd much rather use Bootstrap or Grid to complete these projects, but I need to make sure I include certain elements.  
+
+### Day 20: January 25, 2020
+
+**Today's Progress**: I continued working on freeCodeCamp projects, this time the product landing page.
+
+**Thoughts**: I'm trying to make sure I design an actually good-looking website, instead of just fulfilling the basic requirements. It adds some extra time, but I think it will be worth it.  
+
+### Day 21: January 26, 2020
+
+**Today's Progress**: I finished the product landing page project for my Responsive Design Certification from freeCodeCamp.
+
+**Thoughts**: I definitely would have just used Bootstrap to put this whole thing together if I didn't have to fulfill the challenge requirements, but I'm happy with how it turned out. 
+
+**Project Links**: https://codepen.io/katkong/pen/LYEaxOB
+
