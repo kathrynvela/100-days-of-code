@@ -217,77 +217,79 @@
 
 <imc src="#" alt="">
 
-**Today's Progress**:
+**Today's Progress**: Finished the last project and submitted for the freeCodeCamp Responsive Design Certification!
 
-**Thoughts**:
+**Thoughts**: The portfolio page was was fun to make, I love trying out different colors and layouts. I especially like the gradient effect!
 
-**Link to Tweet**: KathrynVela31 Day 23
+**Link to Tweet**: <a href="https://twitter.com/KathrynVela31/status/1222677320068001792">KathrynVela31 Day 23</a>
+
+**Project Links**: https://codepen.io/katkong/pen/WNbWMed
 
 
 <h2 align="center">Day 24: January 29, 2020</h2>
 
 <imc src="#" alt="">
 
-**Today's Progress**:
+**Today's Progress**: I took a break from Udemy and freeCodeCamp to watch a 1-hour design course on Scrimba.
 
-**Thoughts**:
+**Thoughts**: So much of design is subjective, but it's nice to have a review of the basic principles.
 
-**Link to Tweet**: KathrynVela31 Day 24
+**Link to Tweet**: <a href="https://twitter.com/KathrynVela31/status/1222677320068001792">KathrynVela31 Day 24</a>
 
 
 <h2 align="center">Day 25: January 30, 2020</h2>
 
 <imc src="#" alt="">
 
-**Today's Progress**:
+**Today's Progress**: More Scrimba design course today.
 
-**Thoughts**:
+**Thoughts**: Most of these principles seem to match what I've been doing so far, which is gratifying. I still struggle a bit with matching fonts together, but I found out Google Fonts offers suggestions, which will be a huge help.
 
-**Link to Tweet**: KathrynVela31 Day 25
+**Link to Tweet**: <a href="https://twitter.com/KathrynVela31/status/1223758798881341440">KathrynVela31 Day 25</a>
 
 
 <h2 align="center">Day 26: January 31, 2020</h2>
 
 <imc src="#" alt="">
 
-**Today's Progress**:
+**Today's Progress**: Finished the Scrimba design course today. 
 
-**Thoughts**:
+**Thoughts**: This was a fun break/review of CSS. I've been avoiding a deep dive into Javascript, but I think I'm ready to get back into my Udemy course.
 
-**Link to Tweet**: KathrynVela31 Day 26
+**Link to Tweet**: <a href="https://twitter.com/KathrynVela31/status/1223758798881341440">KathrynVela31 Day 26</a>
 
 
 <h2 align="center">Day 27: February 01, 2020</h2>
 
 <imc src="#" alt="">
 
-**Today's Progress**:
+**Today's Progress**: Began the introductory Javascript modules in my Udemy course. 
 
-**Thoughts**:
+**Thoughts**: A lot of this is review so far, but I appreciate the opportunity to refresh my memory and refine my skills.
 
-**Link to Tweet**: KathrynVela31 Day 27
+**Link to Tweet**: <a href="https://twitter.com/KathrynVela31/status/1223758798881341440">KathrynVela31 Day 27</a>
 
 
 <h2 align="center">Day 28: February 02, 2020</h2>
 
 <imc src="#" alt="">
 
-**Today's Progress**:
+**Today's Progress**: Learned about strings and numbers in Javascript today. 
 
-**Thoughts**:
+**Thoughts**: These exercises all make sense right now, and I'm hoping they still make sense once I start applying them to projects.
 
-**Link to Tweet**: KathrynVela31 Day 28
+**Link to Tweet**: a href="https://twitter.com/KathrynVela31/status/1224058264217767936">KathrynVela31 Day 28</a>
 
 
 <h2 align="center">Day 29: February 03, 2020</h2>
 
 <imc src="#" alt="">
 
-**Today's Progress**:
+**Today's Progress**: Finished the introductory Javascript modules, which included functions.
 
-**Thoughts**:
+**Thoughts**: I feel mildly confident in my Javascript skills at the moment, but I haven't really tested them yet, so we'll see how the next few modules go.
 
-**Link to Tweet**: KathrynVela31 Day 29
+**Link to Tweet**: <a href="https://twitter.com/KathrynVela31/status/1224559529267884034">KathrynVela31 Day 29</a>
 
 
 <h2 align="center">Day 30: February 04, 2020</h2>
