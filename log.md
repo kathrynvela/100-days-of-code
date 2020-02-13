@@ -382,7 +382,7 @@
 
 <h2 align="center">Day 38: February 13, 2020</h2>
 
-<imc src="#" alt="">
+<img src="#" alt="">
 
 **Today's Progress**: I worked thorugh the rest of the DOM unit and set up my files for the Dicee Challenge.
 
