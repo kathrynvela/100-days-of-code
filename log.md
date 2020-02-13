@@ -204,11 +204,13 @@
 
 <imc src="#" alt="">
 
-**Today's Progress**:
+**Today's Progress**: Finished another challenge for the freeCodeCamp Responsive Design Certification. One more to go!
 
-**Thoughts**:
+**Thoughts**: I was able to use Bootstrap for this project, and that was a lot of fun. I'm especially proud I got the screen size changes right.
 
-**Link to Tweet**: KathrynVela31 Day 22
+**Link to Tweet**: <a href="https://twitter.com/KathrynVela31/status/1221924146306633728">KathrynVela31 Day 22</a>
+
+**Project Links**: https://codepen.io/katkong/pen/NWPmjZo
 
 
 <h2 align="center">Day 23: January 28, 2020</h2>
@@ -330,3 +332,59 @@
 **Thoughts**:
 
 **Link to Tweet**: KathrynVela31 Day 33
+
+
+<h2 align="center">Day 34: February 08, 2020</h2>
+
+<imc src="#" alt="">
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to Tweet**: KathrynVela31 Day 34
+
+
+<h2 align="center">Day 35: February 09, 2020</h2>
+
+<imc src="#" alt="">
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+**Link to Tweet**: KathrynVela31 Day 35
+
+
+<h2 align="center">Day 36: February 10, 2020</h2>
+
+<imc src="#" alt="">
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to Tweet**: KathrynVela31 Day 36
+
+
+<h2 align="center">Day 37: February 12, 2020</h2>
+
+<imc src="#" alt="">
+
+**Today's Progress**: More work learning DOM. 
+
+**Thoughts**: DOM seems simple enough, I'm just wondering if it seems that way because I'm learning beginner stuff or if it really is easy to understand.
+
+**Link to Tweet**: KathrynVela31 Day 37
+
+
+<h2 align="center">Day 38: February 13, 2020</h2>
+
+<imc src="#" alt="">
+
+**Today's Progress**: I worked thorugh the rest of the DOM unit and set up my files for the Dicee Challenge.
+
+**Thoughts**: I feel like this unit went by fast, so it will be interesting to see how well I do on this upcoming challenge.
+
+**Link to Tweet**: KathrynVela31 Day 38
+
